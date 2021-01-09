@@ -15,7 +15,8 @@ APPROACH
 11.	Out-of-fold cross-validation(OOF) was used instead of average across all the folds for deciding weights of the ensemble.
 
 MODELS AND NOTEBOOKS
-1.	 RANDOM FOREST 
+1.	 RANDOM FOREST
+
 ●	Important Features were selected using Recursive Feature elimination.
 
 ●	Recursive Feature Elimination
