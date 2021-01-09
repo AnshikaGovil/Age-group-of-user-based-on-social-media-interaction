@@ -16,7 +16,6 @@ APPROACH
 
 MODELS AND NOTEBOOKS
 1.	 RANDOM FOREST 
-
 ●	Important Features were selected using Recursive Feature elimination.
 
 ●	Recursive Feature Elimination
